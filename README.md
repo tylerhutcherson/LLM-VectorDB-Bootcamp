@@ -2,7 +2,7 @@
 
 # Vector Database + LLM Bootcamp
 
-This repository contains the code for the LLM Bootcamp hosted by Data Science Dojo.
+This repository contains the code for the LLM Bootcamp hosted by Data Science Dojo and Redis.
 
 ## Getting Started
 

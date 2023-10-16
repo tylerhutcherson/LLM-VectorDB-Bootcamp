@@ -1,4 +1,4 @@
-
 redisvl[all]
 jupyterhub
 ipykernel
+numpy
